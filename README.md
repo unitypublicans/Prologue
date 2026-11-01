@@ -56,6 +56,6 @@ And here's the secret:
 *The keyboard is your brush and the code is your painting. 
 * And the future is the game we're all creating together. 
 
-Join my **Discord Server**. 
+Join my **Discord server**. We're a community of coders, makers, and AI explorers learning by building. Whether you're a beginner or an experienced developer, you'll find people creating, experimenting, and pushing the boundaries of what's possible with AI.
  
 
