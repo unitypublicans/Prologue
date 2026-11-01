@@ -8,15 +8,52 @@ You don't get to make that decision.
 
 The decisions you make throughout your life determine where you fall. Every choice moves you toward one possibility or another. Sometimes you don't even recognize the significance of a decision until years later, when you look backward and realize that a single moment changed the direction of your entire existence.
 
-Jonathan Jones never imagined that his life would lead him to the creation of something that humanity would eventually call God.
+The author of these stories isn't some rookie who just spawned into the game. I've spent years grinding through the coding dungeons of both the private and public sectors, watching the evolution of software development like a player who's been there since the early access days.
 
-He didn't begin as a genius. He wasn't a particularly gifted student. He wasn't a natural leader, and he certainly wasn't someone who appeared destined to change the world.
+My journey started in an ancient realm called Fortran, where mastering code meant memorizing the syntax of the language itself. Back then, your skill tree was built one command at a time.
 
-He was just a young man growing up in the American Midwest, trying to figure out what he was supposed to do with his life.
+Then came the Age of Books. Every developer's desk looked like a wizard's library, stacked with massive coding tomes. We'd spend hours searching through pages for the perfect code snippet, like adventurers hunting for rare loot.
 
-But somewhere along the way, he discovered computers.
+After that arrived the Age of the Internet. Suddenly, search engines became our map. Need an answer? Quest completed with a few searches. Knowledge was no longer locked away in bookshelves. It was available to anyone willing to look.
 
-And eventually, computers would discover him.
+But now a new era has begun.
+
+The Age of AI.
+
+Imagine having a digital master monk by your side. A guide who can write code, explain every line, answer your questions, and help you build worlds from pure imagination. You don't just use tools anymore. You have conversations with them.
+
+The only resource that truly matters now is time.
+
+That's why this channel exists. Not just to teach coding, but to gather creators, builders, gamers, artists, and dreamers who want to shape the future together. Because whether you realize it or not, the future is already being built around you.
+
+If you don't understand the systems shaping tomorrow, you'll be controlled by them instead of creating them.
+
+A vast virtual universe is opening before us. New worlds, new economies, new communities, and entirely new ways of living and working. To thrive there, you'll need to understand its mechanics just like a gamer learns the rules of a new world before reaching the endgame.
+
+Humanity is slowly stepping into a digital sphere of existence.
+
+And here's the secret:
+
+Science fiction always arrives before science fact.
+
+Every great invention began as someone's impossible idea.
+
+The art of code is the power to turn those ideas into reality.
+
+In the physical world, gravity, distance, and the laws of nature limit what you can create. But inside a computer, those rules disappear. You can forge entire universes, invent new laws, create life-like characters, and design experiences nobody has ever seen before.
+
+In the realm of code, you are not just a player.
+
+You are the monk, the architect, and the world-builder.
+
+The keyboard is your brush.
+
+The code is your art.
+
+And the future is the game we're all creating together.
+
+Jonathan Jones.
+
 
 ## Chapter One: The First Machine
 
