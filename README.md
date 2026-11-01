@@ -53,7 +53,7 @@ And here's the secret:
 * In the physical world, gravity, distance, and the laws of nature limit what you can create. But inside a computer, those rules disappear. You can forge entire universes, invent new laws, create life-like characters, and design experiences nobody has ever seen before. 
 *In the realm of code, you are not just a player. 
 * You are the monk, the architect, and the world-builder. 
-*The keyboard is your brush and the code is your painting. 
+* The keyboard is your brush and the code is your painting. 
 * And the future is the game we're all creating together. 
 
 Join my **Discord server**. We're a community of coders, makers, and AI explorers learning by building. Whether you're a beginner or an experienced developer, you'll find people creating, experimenting, and pushing the boundaries of what's possible with AI.
