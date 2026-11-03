@@ -11,3 +11,7 @@ I think of coding like a gaming campaign 🎯. Every bug 🐛 is a boss battle, 
 The author of these stories’ tutorials 📚 isn't some rookie 🆕 who just spawned into the game 🕹️.
 
 I've spent years honing my craft 🛠️ in both the private 🏢 and public 🏛️ sectors, witnessing firsthand 👀 the evolution 📈 of software development 💻 from custom-built solutions ⚙️ to powerful 🚀 out-of-the-box 📦 libraries and 🏗️ frameworks. 
+
+I spent a significant part of my career 🕒 operating within the deep state machinery 🏛️ of the federal government 🇺🇸, working on classified networks 🔒💻 and national security missions 🛡️🎯 that most Americans never see 👀. To those of us who served as soldiers in slacks 👔🫡, it was simply the world behind the curtain 🎭, where intelligence 🕵️, military operations ⚔️, diplomacy 🤝, and covert action 🕶️ intersected 🔄.
+
+The world was asleep when we went to work.
