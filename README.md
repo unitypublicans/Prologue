@@ -1,6 +1,6 @@
 ## Prologue: The Choices That Determine Your Future
 
-🚀 **Join my Discord Server!** 🤖
+🚀 **Join my Discord Server Community!** 🤖
 
 The AI revolution isn't about machines getting smarter. It's about people becoming more capable. 💡 Increase your capability. 🌟 Expand your possibilities.
 
