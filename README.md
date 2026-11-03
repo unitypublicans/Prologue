@@ -1,6 +1,6 @@
 ## Prologue: The Choices That Determine Your Future
 
-Join my **Discord server**. We're a community of coders, makers, and AI explorers learning by building. Whether you're a beginner or an experienced developer, you'll find people creating, experimenting, and pushing the boundaries of what's possible with AI.
+Join my **Discord Server**. We're a community of coders, makers, and AI explorers learning by building. Whether you're a beginner or an experienced developer, you'll find people creating, experimenting, and pushing the boundaries of what's possible with AI.
 
 You never truly know where you fit among the competing cloisters of people, each working toward their own vision of what might be possible. You're simply moving through time, contributing your part, and eventually history settles on one outcome. The final result of your life's work is not yours to choose.
 The decisions you make throughout your life determine where you fall. Every choice moves you toward one possibility or another. Sometimes you don't even recognize the significance of a decision until years later, when you look backward and realize that a single moment changed the direction of your entire existence. 
