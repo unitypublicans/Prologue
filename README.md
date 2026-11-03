@@ -48,7 +48,8 @@ A vast virtual universe is opening before us. New worlds, new economies, new com
 
 Humanity is slowly stepping into a digital sphere of existence. 
 
-And here's the secret: 
+The truth about the AI age is that anyone can learn to code and create in ways that were never possible before.
+
 * Science fiction always arrives before science fact. 
 * Every great invention began as someone's impossible idea. 
 * The art of code is the power to turn those ideas into reality. 
