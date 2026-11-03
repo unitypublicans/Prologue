@@ -9,3 +9,5 @@ The AI revolution isn't about machines getting smarter. It's about people becomi
 I think of coding like a gaming campaign 🎯. Every bug 🐛 is a boss battle, every fix ✅ earns me experience points 📈, and every deployment 🚀 unlocks a new level ⬆️. The best part 🌟 is when my program finally comes alive ⚡🤖, almost like Frankenstein's creation 🧟‍♂️ rising from the table 🛏️ for the first time. 🎉
 
 The author of these stories’ tutorials 📚 isn't some rookie 🆕 who just spawned into the game 🕹️.
+
+I've spent years honing my craft 🛠️ in both the private 🏢 and public 🏛️ sectors, witnessing firsthand 👀 the evolution 📈 of software development 💻 from custom-built solutions ⚙️ to powerful 🚀 out-of-the-box 📦 libraries and 🏗️ frameworks. 
